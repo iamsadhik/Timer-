@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color:#9CA3AF ;
+}
+button{
+    padding: 1rem 2rem;
+    border-radius: 30%;
+    margin: 6px;
+}
+.num{
+    font-size: 23px;
+    padding: 10px;
+}
+button:hover{
+    background-color: #A7F3D0;
+}
